@@ -1,1 +1,1 @@
-# Ruthra-AndroidApp-Task-6
+Assignment-6
